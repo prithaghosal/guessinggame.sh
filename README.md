@@ -1,5 +1,6 @@
+# This is a GUESSINGGAME project
 ## Task was given at Coursera.org at course [The Unix Workbench](https://www.coursera.org/learn/unix)
-*by Subhajit Saha on [coursera.org](https://www.coursera.org/).*
+*by pritha ghosal on [coursera.org](https://www.coursera.org/).*
 1. The date and time at which make was run:
 2018-01-20 11:13:22
 2018-01-20 11:22:37
